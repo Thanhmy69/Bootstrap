@@ -1,0 +1,21 @@
+.black {
+    height: 5em;
+    background-color: black;
+    border: solid 1px white;
+    box-shadow: red 5px 5px 5px;
+}
+.grey{
+    height: 5em;
+    border: solid 1px white;
+
+}
+.orange{
+    height: 5em;
+    background-color: orange;
+    border: solid 1px white;
+}
+.yellow{
+    height: 5em;
+    background-color: yellow;
+    border: solid 1px white;
+}
